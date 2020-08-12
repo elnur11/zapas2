@@ -26,7 +26,7 @@
                         <div class="footer-content">
                             <ul class="footer-list">
                                 <li><a href="about.html">About Us</a></li>
-                                <li><a href="#">Delivery Information</a></li>
+                                <li><a href="#">Delivery Info</a></li>
                                 <li><a href="#">Privacy Policy</a></li>
                                 <li><a href="contact.html">Terms & Conditions</a></li>
                                 <li><a href="login.html">FAQs</a></li>
