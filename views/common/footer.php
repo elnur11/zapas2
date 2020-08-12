@@ -22,7 +22,7 @@
                 <!-- Single Footer Start -->
                 <div class="col-lg-2 col-md-4 col-sm-6">
                     <div class="single-footer mb-sm-40">
-                        <h3 class="footer-title">Information</h3>
+                        <h3 class="footer-title">Inform</h3>
                         <div class="footer-content">
                             <ul class="footer-list">
                                 <li><a href="about.html">About Us</a></li>
