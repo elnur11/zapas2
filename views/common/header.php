@@ -59,7 +59,7 @@
                     <li><a href="#">My Account<i class="lnr lnr-chevron-down"></i></a>
                         <!-- Dropdown Start -->
                         <ul class="ht-dropdown">
-                            <li><a href="login.html">Login</a></li>
+                            <li><a href="login.html">Log</a></li>
                             <li><a href="register.html">Register</a></li>
                         </ul>
                         <!-- Dropdown End -->
